@@ -57,6 +57,7 @@ I'm a passionate developer focused on creating beautiful and functional web appl
 
 ## 🏆 Projects
 
+script nexa → **https://github.com/natanvrn/nexa-vyne-v2**
 <div align="center">
   <a href="https://github.com/natanvrn/nexa-vyne-v2">
     <img src="https://github.com/natanvrn/nexa-vyne-v2" />
