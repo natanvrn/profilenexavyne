@@ -1,5 +1,5 @@
 <div align="center">
-  ![alt text](?raw=true) width="100%" style="border-radius:20px;"/>
+  ![nexavyne.jpg](?raw=true) width="100%" style="border-radius:20px;"/>
 </div>
 
 # Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
