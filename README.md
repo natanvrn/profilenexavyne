@@ -58,7 +58,7 @@ I'm a passionate developer focused on creating beautiful and functional web appl
 ## 🏆 Projects
 
 <div align="center">
-  <a href="https://github.com/cloudkuimages/pong-game">
+  <a href="https://github.com/natanvrn/nexa-vyne-v2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cloudkuimages&repo=pong-game&theme=radical" />
   </a>
   <a href="https://github.com/cloudkuimages/cocoa-chan-telegram">
