@@ -61,10 +61,10 @@ I'm a passionate developer focused on creating beautiful and functional web appl
   <a href="https://github.com/natanvrn/nexa-vyne-v2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cloudkuimages&repo=pong-game&theme=radical" />
   </a>
-  <a href="https://github.com/cloudkuimages/cocoa-chan-telegram">
+  <a href="https://github.com/natanvrn/nexa-vyne-v2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cloudkuimages&repo=cocoa-chan-telegram&theme=radical" />
   </a>
-  <a href="https://github.com/cloudkuimages/tests">
+  <a href="https://github.com/natanvrn/nexa-vyne-v2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cloudkuimages&repo=tests&theme=radical" />
   </a>
 </div>
