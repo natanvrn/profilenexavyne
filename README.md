@@ -57,17 +57,8 @@ I'm a passionate developer focused on creating beautiful and functional web appl
 
 ## 🏆 Projects
 
-script nexa → **https://github.com/natanvrn/nexa-vyne-v2**
-<div align="center">
-  <a href="https://github.com/natanvrn/nexa-vyne-v2">
-    <img src="https://github.com/natanvrn/nexa-vyne-v2" />
-  </a>
-  <a href="https://github.com/natanvrn/nexa-vyne-v2">
-    <img src="https://github.com/natanvrn/nexa-vyne-v2" />
-  </a>
-  <a href="https://github.com/natanvrn/nexa-vyne-v2">
-    <img src="https://github.com/natanvrn/nexa-vyne-v2" />
-  </a>
+SCRIPT BOT 1 → **https://github.com/natanvrn/nexavyne**
+SCRIPT BOT 2 → **https://github.com/natanvrn/nexa-vyne-v2**
 </div>
 
 ## 📈 GitHub Stats
