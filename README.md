@@ -18,8 +18,8 @@
 
 I'm a passionate developer focused on creating beautiful and functional web applications. My journey in tech has equipped me with skills across multiple domains including frontend development, backend architecture, and UI/UX design.
 
-- 🧑‍💻 I'm Mr.Nv ( Natan )
-- 👤 I'm old 19y.o
+- 🧑‍💻 I'm **Mr.Nv ( Natan )**
+- 👤 I'm old **19y.o**
 - 🔭 I'm currently working on **innovative web applications**
 - 🌱 I'm currently learning **advanced AI integration**
 - 👯 I'm looking to collaborate on **open source projects**
@@ -86,7 +86,7 @@ I'm a passionate developer focused on creating beautiful and functional web appl
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="mailto:cloudkuimages@gmail.com">
+  <a href="mailto:naveciao@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/yourusername">
@@ -95,7 +95,7 @@ I'm a passionate developer focused on creating beautiful and functional web appl
   <a href="https://twitter.com/cloudkuimages">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://instagram.com/alfino_r.c">
+  <a href="https://instagram.com/nexavyne.ai">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
