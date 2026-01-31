@@ -1,6 +1,4 @@
-<div align="center">
-  ![https://github.com/natanvrn/profilenexavyne/blob/main/nexavyne.jpg](?raw=true) 
-</div>
+![alt text](https://github.com/natanvrn/profilenexavyne/blob/main/nexavyne.jpg?raw=true)
 
 # Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
